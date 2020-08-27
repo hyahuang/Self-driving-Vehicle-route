@@ -35,7 +35,7 @@ put HW1.py and case01.txt in the same directory and run HW1.py
 
 Record the front distance, right 45 degree's distance, left 45 degree's distance and wheel's angle every time when the car moves.
 
-``` C
+``` 
 //Front Right Left Wheel_Angle
 
 22.0 8.485281374238571 8.485281374238571 0.0
@@ -49,7 +49,7 @@ Record the front distance, right 45 degree's distance, left 45 degree's distance
 
 Record X,Y coordinate plus the previous ouput every time when the car moves.
 
-```C 
+```
 // X Y Front Right Left Wheel_Angle
 
 6.123233995736766e-17 1.0 22.0 8.485281374238571 8.485281374238571 0.0
